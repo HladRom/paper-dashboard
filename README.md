@@ -106,5 +106,4 @@ Instagram: <https://instagram.com/creativetimofficial>
 [LICENSE]: ./LICENSE
 [version-badge]: https://img.shields.io/badge/version-2.0.1-blue.svg
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
-hi devops
-hi hi hi
+hi devo
